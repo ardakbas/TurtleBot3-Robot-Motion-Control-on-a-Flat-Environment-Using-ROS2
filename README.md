@@ -6,7 +6,7 @@ geometry_msgs is a ROS2 package that defines message types for geometric data, s
 nav_msgs is a ROS2 package that defines message types for navigation data, such as the Odometry message used on the /odom topic.
 math is a library which contains a lot of mathematical functions.
 # Usage
-Firstly, "~/ROS_Project/install/setup.bash" path must be sourced to the terminals that package will be used.
+Firstly, "~/ROS_Project/install/setup.bash" path must be sourced to the terminals that package will be used. 
 Secondly, the robot type should be exported to the terminals.
 After that, flat environment should be launch with the command of "ros2 launch turtlebot3_gazebo turtlebot3_world.launch.py"
 Finally, "ros2 run robot_control controller_node" code should be sent to terminal.
