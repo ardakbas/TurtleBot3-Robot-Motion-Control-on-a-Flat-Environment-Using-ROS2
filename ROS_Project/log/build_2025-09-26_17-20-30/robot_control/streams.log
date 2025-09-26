@@ -1,0 +1,24 @@
+[1.200s] Invoking command in '/home/arda/ROS_Project/build/robot_control': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/arda/ROS_Project/build/robot_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/arda/ROS_Project/install/robot_control/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/arda/ROS_Project/build/robot_control/build --no-deps symlink_data
+[1.488s] running develop
+[1.663s] running egg_info
+[1.663s] creating robot_control.egg-info
+[1.678s] writing robot_control.egg-info/PKG-INFO
+[1.678s] writing dependency_links to robot_control.egg-info/dependency_links.txt
+[1.679s] writing entry points to robot_control.egg-info/entry_points.txt
+[1.679s] writing requirements to robot_control.egg-info/requires.txt
+[1.679s] writing top-level names to robot_control.egg-info/top_level.txt
+[1.679s] writing manifest file 'robot_control.egg-info/SOURCES.txt'
+[1.709s] reading manifest file 'robot_control.egg-info/SOURCES.txt'
+[1.709s] writing manifest file 'robot_control.egg-info/SOURCES.txt'
+[1.726s] running build_ext
+[1.726s] Creating /home/arda/ROS_Project/install/robot_control/lib/python3.12/site-packages/robot-control.egg-link (link to .)
+[1.727s] Installing Controller_node script to /home/arda/ROS_Project/install/robot_control/lib/robot_control
+[1.727s] 
+[1.727s] Installed /home/arda/ROS_Project/build/robot_control
+[1.727s] running symlink_data
+[1.727s] creating /home/arda/ROS_Project/install/robot_control/share/ament_index
+[1.728s] creating /home/arda/ROS_Project/install/robot_control/share/ament_index/resource_index
+[1.728s] creating /home/arda/ROS_Project/install/robot_control/share/ament_index/resource_index/packages
+[1.728s] symbolically linking /home/arda/ROS_Project/build/robot_control/resource/robot_control -> /home/arda/ROS_Project/install/robot_control/share/ament_index/resource_index/packages
+[1.728s] symbolically linking /home/arda/ROS_Project/build/robot_control/package.xml -> /home/arda/ROS_Project/install/robot_control/share/robot_control
+[1.768s] Invoked command in '/home/arda/ROS_Project/build/robot_control' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/arda/ROS_Project/build/robot_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/arda/ROS_Project/install/robot_control/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/arda/ROS_Project/build/robot_control/build --no-deps symlink_data
